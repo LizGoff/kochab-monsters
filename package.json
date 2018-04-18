@@ -1,0 +1,22 @@
+{
+  "name": "kochab-monsters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LizGoff/kochab-monsters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LizGoff/kochab-monsters/issues"
+  },
+  "homepage": "https://github.com/LizGoff/kochab-monsters#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
