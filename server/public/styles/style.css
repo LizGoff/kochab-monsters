@@ -4,6 +4,7 @@ body {
     background: url('greenfur.png');
     opacity: 60%;
     background-repeat: no-repeat;
+    font-family: "Comic Sans MS";
 }
 
 #topOfPage {
@@ -11,7 +12,7 @@ body {
     height: 100%;
     background: url('white.png');
     padding: 10px;
-    margin: 20px 10px 10px 10px
+    margin: 20px 10px 10px 10px;
 }
 
 h1 {
